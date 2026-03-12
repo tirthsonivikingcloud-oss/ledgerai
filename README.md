@@ -157,3 +157,4 @@ supabase functions deploy claude-proxy --project-ref wvzvtthwzlufbuyqknou
 - [Claude AI](https://anthropic.com) — document extraction & anomaly detection  
 - [Supabase](https://supabase.com) — database, edge functions, secrets  
 - [IFRS Standards](https://www.ifrs.org) — IAS 1 compliant P&L and Balance Sheet  
+ 
